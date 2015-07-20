@@ -1,0 +1,3 @@
+The Surface Ocean CO2 Atlas (SOCAT) is the most comprehensive dataset of surface water carbon dioxide (CO2) measurements for the world's oceans and coastal seas has been put together by an international team of scientists. SOCAT version 2 comprises 10.1 million global observations made from research vessels, commercial ships and moorings around the world since 1968. The dataset documents the changes in ocean carbon similar to the Mauna Loa record - or 'Keeling curve' - showing the rise in atmospheric CO2 over time.
+
+This repository contains code for various supporting programs used in the project.
